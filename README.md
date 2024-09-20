@@ -2,4 +2,4 @@
 <p align="left"> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="java" width="40" height="40"/> </a> </p>
 <h align="center">Good luck on development!</h>
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ThreadedDev/Kotlin-demo-software-purple)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ThreadedDev/Kotlin-demo-software/Example-Purple-purple)
